@@ -1,0 +1,32 @@
+[
+	{
+		"abbr": "DL",
+		"name": "Delhi",
+		"capital": "Delhi"
+	},
+	{
+		"abbr": "AP",
+		"name": "Andhra Pardesh",
+		"capital": "Hyderabad"
+	},
+	{
+		"abbr": "KR",
+		"name": "Karnataka",
+		"capital": "Banglore"
+	},
+	{
+		"abbr": "HR",
+		"name": "Harayana",
+		"capital": "Chandigarh"
+	},
+	{
+		"abbr": "PB",
+		"name": "Punjab",
+		"capital": "Chandigarh"
+	},
+	{
+		"abbr": "MP",
+		"name": "Madhya Pardesh",
+		"capital": "Bhopal"
+	}
+]

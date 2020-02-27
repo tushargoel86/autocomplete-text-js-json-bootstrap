@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autocomplete text</title>
+    <script src="https://kit.fontawesome.com/1467aba71a.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/flatly/bootstrap.min.css">
+
+     <style>
+         body {
+            background-color: black;
+            color: white;
+         }
+     </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <h3 class="display-4 text-center">
+                    State Capital
+                </h3>
+                <div class="form form-group">
+                    <input id="searchState"
+                           type="text"
+                           class="form-control" 
+                           placeholder="Enter State name or abbrevation ..."
+                           />
+                </div>
+                <div id="states"></div>
+            </div>
+           
+        </div>
+    </div>
+    <script src="../js/main.js"></script>
+</body>
+</html>
